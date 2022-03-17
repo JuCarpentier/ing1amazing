@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1615575438 source:c:\users\33610\desktop\informatique\projet informatique\exercice\exo\exercices 1900\exercice 1907\sousp.c
+	"entete.h"
+
+1615575801 c:\users\33610\desktop\informatique\projet informatique\exercice\exo\exercices 1900\exercice 1907\entete.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1615891353 source:c:\users\33610\desktop\informatique\projet informatique\exercice\exo\exercices 1900\exercice 1907\main.c
+	"entete.h"
+
+1647538408 source:c:\users\julie\desktop\exercice 1907\main.c
+	"entete.h"
+
+1617341646 c:\users\julie\desktop\exercice 1907\entete.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1617341646 source:c:\users\julie\desktop\exercice 1907\sousp.c
+	"entete.h"
+
